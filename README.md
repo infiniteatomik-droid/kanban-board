@@ -3,7 +3,7 @@
 A dynamic, state-managed Kanban Board application built with Vanilla JavaScript. It allows users to manage everyday tasks across different workflow stages.
 
 ## 🚀 Live Demo
-*You can add your GitHub Pages link here later*
+https://infiniteatomik-droid.github.io/kanban-board/
 
 ## ✨ Features
 * **Dynamic State Management:** Tasks are stored in a JavaScript array of objects and rendered dynamically based on their status.
