@@ -2,7 +2,7 @@
 
 A minimalist, high-performance Kanban board built with pure TypeScript and Vite. Features a modern glassmorphism UI, smooth drag-and-drop mechanics, and persistent local storage.
 
- **Live Demo:** [infiniteatomik-droid/kanban-board]
+##  **Live Demo:** [infiniteatomik-droid/kanban-board]
 
 ##  Tech Stack & Features
 
